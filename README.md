@@ -1,4 +1,4 @@
-# Population Change
+# Mapping the Changement
 
 - This repository contains my maps representing changement in land use/land cover/population, etc.
 - - Click on each map, to see its high resolution version!
